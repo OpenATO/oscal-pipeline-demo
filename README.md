@@ -1,6 +1,6 @@
 # Case Study: Shifting Left the Right Way with OSCAL
 
-This repository was created to demonstrate an automated assessment workflow using GitHub Actions.  It utilizes a minimal application to trace a single control through the OSCAL models.
+This repository was created to demonstrate an automated assessment workflow using GitHub Actions. It utilizes a minimal application to trace a single control through the OSCAL models.
 
 Through this project, we intend to help take the first steps with OSCAL and integrate these concepts into a development project. This will facilitate security, privacy and compliance activities as a part of an application development project from the start.
 
